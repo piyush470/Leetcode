@@ -11,6 +11,7 @@
 | [0858-mirror-reflection](https://github.com/piyush470/Leetcode/tree/master/0858-mirror-reflection) |
 | [0866-prime-palindrome](https://github.com/piyush470/Leetcode/tree/master/0866-prime-palindrome) |
 | [2413-smallest-even-multiple](https://github.com/piyush470/Leetcode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/piyush470/Leetcode/tree/master/2427-number-of-common-factors) |
 | [3099-harshad-number](https://github.com/piyush470/Leetcode/tree/master/3099-harshad-number) |
 ## Array
 |  |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/piyush470/Leetcode/tree/master/0204-count-primes) |
+| [2427-number-of-common-factors](https://github.com/piyush470/Leetcode/tree/master/2427-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 | [0858-mirror-reflection](https://github.com/piyush470/Leetcode/tree/master/0858-mirror-reflection) |
 | [0866-prime-palindrome](https://github.com/piyush470/Leetcode/tree/master/0866-prime-palindrome) |
 | [2413-smallest-even-multiple](https://github.com/piyush470/Leetcode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/piyush470/Leetcode/tree/master/2427-number-of-common-factors) |
 ## Binary Search
 |  |
 | ------- |
