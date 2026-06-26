@@ -7,6 +7,7 @@
 | [0009-palindrome-number](https://github.com/piyush470/Leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/piyush470/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/piyush470/Leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/piyush470/Leetcode/tree/master/0258-add-digits) |
 | [3099-harshad-number](https://github.com/piyush470/Leetcode/tree/master/3099-harshad-number) |
 ## Array
 |  |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/piyush470/Leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/piyush470/Leetcode/tree/master/0258-add-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,4 +72,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/piyush470/Leetcode/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/piyush470/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
