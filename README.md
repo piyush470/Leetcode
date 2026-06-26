@@ -12,6 +12,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/piyush470/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/piyush470/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0204-count-primes](https://github.com/piyush470/Leetcode/tree/master/0204-count-primes) |
+| [0283-move-zeroes](https://github.com/piyush470/Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/piyush470/Leetcode/tree/master/0414-third-maximum-number) |
 ## Sorting
 |  |
@@ -22,6 +23,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/piyush470/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/piyush470/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0283-move-zeroes](https://github.com/piyush470/Leetcode/tree/master/0283-move-zeroes) |
 ## Enumeration
 |  |
 | ------- |
