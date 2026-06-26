@@ -10,6 +10,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/piyush470/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/piyush470/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/piyush470/Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/piyush470/Leetcode/tree/master/0075-sort-colors) |
@@ -27,6 +28,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/piyush470/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/piyush470/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/piyush470/Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/piyush470/Leetcode/tree/master/0075-sort-colors) |
@@ -46,4 +48,8 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyush470/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/piyush470/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
