@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/piyush470/Leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/piyush470/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/piyush470/Leetcode/tree/master/0204-count-primes) |
 | [3099-harshad-number](https://github.com/piyush470/Leetcode/tree/master/3099-harshad-number) |
