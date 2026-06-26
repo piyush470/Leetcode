@@ -12,6 +12,7 @@
 | [0866-prime-palindrome](https://github.com/piyush470/Leetcode/tree/master/0866-prime-palindrome) |
 | [2413-smallest-even-multiple](https://github.com/piyush470/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/piyush470/Leetcode/tree/master/2427-number-of-common-factors) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/piyush470/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3099-harshad-number](https://github.com/piyush470/Leetcode/tree/master/3099-harshad-number) |
 ## Array
 |  |
@@ -61,6 +62,7 @@
 | [0866-prime-palindrome](https://github.com/piyush470/Leetcode/tree/master/0866-prime-palindrome) |
 | [2413-smallest-even-multiple](https://github.com/piyush470/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/piyush470/Leetcode/tree/master/2427-number-of-common-factors) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/piyush470/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,6 +87,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/piyush470/Leetcode/tree/master/0258-add-digits) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/piyush470/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Geometry
 |  |
 | ------- |
