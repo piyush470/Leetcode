@@ -9,6 +9,7 @@
 | [0204-count-primes](https://github.com/piyush470/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/piyush470/Leetcode/tree/master/0258-add-digits) |
 | [0858-mirror-reflection](https://github.com/piyush470/Leetcode/tree/master/0858-mirror-reflection) |
+| [0866-prime-palindrome](https://github.com/piyush470/Leetcode/tree/master/0866-prime-palindrome) |
 | [2413-smallest-even-multiple](https://github.com/piyush470/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [3099-harshad-number](https://github.com/piyush470/Leetcode/tree/master/3099-harshad-number) |
 ## Array
@@ -55,6 +56,7 @@
 | [0204-count-primes](https://github.com/piyush470/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/piyush470/Leetcode/tree/master/0258-add-digits) |
 | [0858-mirror-reflection](https://github.com/piyush470/Leetcode/tree/master/0858-mirror-reflection) |
+| [0866-prime-palindrome](https://github.com/piyush470/Leetcode/tree/master/0866-prime-palindrome) |
 | [2413-smallest-even-multiple](https://github.com/piyush470/Leetcode/tree/master/2413-smallest-even-multiple) |
 ## Binary Search
 |  |
