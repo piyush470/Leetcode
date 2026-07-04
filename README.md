@@ -10,6 +10,7 @@
 | [0258-add-digits](https://github.com/piyush470/Leetcode/tree/master/0258-add-digits) |
 | [0858-mirror-reflection](https://github.com/piyush470/Leetcode/tree/master/0858-mirror-reflection) |
 | [0866-prime-palindrome](https://github.com/piyush470/Leetcode/tree/master/0866-prime-palindrome) |
+| [1952-three-divisors](https://github.com/piyush470/Leetcode/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/piyush470/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/piyush470/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/piyush470/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/piyush470/Leetcode/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/piyush470/Leetcode/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/piyush470/Leetcode/tree/master/2427-number-of-common-factors) |
 ## Number Theory
 |  |
@@ -60,6 +62,7 @@
 | [0258-add-digits](https://github.com/piyush470/Leetcode/tree/master/0258-add-digits) |
 | [0858-mirror-reflection](https://github.com/piyush470/Leetcode/tree/master/0858-mirror-reflection) |
 | [0866-prime-palindrome](https://github.com/piyush470/Leetcode/tree/master/0866-prime-palindrome) |
+| [1952-three-divisors](https://github.com/piyush470/Leetcode/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/piyush470/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/piyush470/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/piyush470/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
