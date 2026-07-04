@@ -14,6 +14,7 @@
 | [2413-smallest-even-multiple](https://github.com/piyush470/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/piyush470/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/piyush470/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2843-count-symmetric-integers](https://github.com/piyush470/Leetcode/tree/master/2843-count-symmetric-integers) |
 | [3099-harshad-number](https://github.com/piyush470/Leetcode/tree/master/3099-harshad-number) |
 ## Array
 |  |
@@ -55,6 +56,7 @@
 | [0204-count-primes](https://github.com/piyush470/Leetcode/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/piyush470/Leetcode/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/piyush470/Leetcode/tree/master/2427-number-of-common-factors) |
+| [2843-count-symmetric-integers](https://github.com/piyush470/Leetcode/tree/master/2843-count-symmetric-integers) |
 ## Number Theory
 |  |
 | ------- |
