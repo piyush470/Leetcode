@@ -30,6 +30,7 @@
 | [0204-count-primes](https://github.com/piyush470/Leetcode/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/piyush470/Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/piyush470/Leetcode/tree/master/0414-third-maximum-number) |
+| [0643-maximum-average-subarray-i](https://github.com/piyush470/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0905-sort-array-by-parity](https://github.com/piyush470/Leetcode/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
@@ -97,4 +98,8 @@
 |  |
 | ------- |
 | [0858-mirror-reflection](https://github.com/piyush470/Leetcode/tree/master/0858-mirror-reflection) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/piyush470/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
