@@ -26,6 +26,7 @@
 | [0053-maximum-subarray](https://github.com/piyush470/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/piyush470/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/piyush470/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0152-maximum-product-subarray](https://github.com/piyush470/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyush470/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/piyush470/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/piyush470/Leetcode/tree/master/0204-count-primes) |
@@ -87,6 +88,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/piyush470/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/piyush470/Leetcode/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/piyush470/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/piyush470/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Stack
 |  |
