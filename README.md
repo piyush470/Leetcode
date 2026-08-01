@@ -23,6 +23,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/piyush470/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/piyush470/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/piyush470/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/piyush470/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/piyush470/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/piyush470/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/piyush470/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -44,6 +45,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/piyush470/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/piyush470/Leetcode/tree/master/0075-sort-colors) |
 | [0414-third-maximum-number](https://github.com/piyush470/Leetcode/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/piyush470/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -131,11 +133,13 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/piyush470/Leetcode/tree/master/0049-group-anagrams) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/piyush470/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/piyush470/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/piyush470/Leetcode/tree/master/0049-group-anagrams) |
 | [0560-subarray-sum-equals-k](https://github.com/piyush470/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/piyush470/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Counting
