@@ -19,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/piyush470/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/piyush470/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/piyush470/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/piyush470/Leetcode/tree/master/0027-remove-element) |
@@ -140,6 +141,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/piyush470/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/piyush470/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/piyush470/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/piyush470/Leetcode/tree/master/0560-subarray-sum-equals-k) |
