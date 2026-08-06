@@ -42,6 +42,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/piyush470/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0905-sort-array-by-parity](https://github.com/piyush470/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/piyush470/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/piyush470/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/piyush470/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/piyush470/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyush470/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -134,6 +135,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/piyush470/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/piyush470/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/piyush470/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -147,6 +149,7 @@
 | [0049-group-anagrams](https://github.com/piyush470/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/piyush470/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/piyush470/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/piyush470/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyush470/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/piyush470/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Counting
