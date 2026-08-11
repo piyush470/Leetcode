@@ -95,6 +95,7 @@
 | [0069-sqrtx](https://github.com/piyush470/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyush470/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/piyush470/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0374-guess-number-higher-or-lower](https://github.com/piyush470/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/piyush470/Leetcode/tree/master/0704-binary-search) |
 ## Greedy
 |  |
@@ -187,4 +188,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/piyush470/Leetcode/tree/master/0069-sqrtx) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/piyush470/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
