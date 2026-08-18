@@ -45,6 +45,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/piyush470/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/piyush470/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/piyush470/Leetcode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/piyush470/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/piyush470/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/piyush470/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/piyush470/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -101,6 +102,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/piyush470/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/piyush470/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/piyush470/Leetcode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/piyush470/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Greedy
 |  |
 | ------- |
@@ -196,4 +198,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/piyush470/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/piyush470/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
