@@ -37,6 +37,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/piyush470/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/piyush470/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyush470/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0179-largest-number](https://github.com/piyush470/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/piyush470/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/piyush470/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/piyush470/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -58,6 +59,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/piyush470/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/piyush470/Leetcode/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/piyush470/Leetcode/tree/master/0179-largest-number) |
 | [0414-third-maximum-number](https://github.com/piyush470/Leetcode/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/piyush470/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyush470/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -110,6 +112,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/piyush470/Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/piyush470/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0179-largest-number](https://github.com/piyush470/Leetcode/tree/master/0179-largest-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -155,6 +158,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/piyush470/Leetcode/tree/master/0049-group-anagrams) |
+| [0179-largest-number](https://github.com/piyush470/Leetcode/tree/master/0179-largest-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/piyush470/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/piyush470/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Hash Table
