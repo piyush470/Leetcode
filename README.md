@@ -55,6 +55,7 @@
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/piyush470/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/piyush470/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyush470/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3903-smallest-stable-index-i](https://github.com/piyush470/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Sorting
 |  |
 | ------- |
@@ -162,6 +163,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/piyush470/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/piyush470/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/piyush470/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [3903-smallest-stable-index-i](https://github.com/piyush470/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
 | ------- |
