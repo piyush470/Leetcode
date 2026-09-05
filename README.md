@@ -56,6 +56,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/piyush470/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyush470/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3903-smallest-stable-index-i](https://github.com/piyush470/Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/piyush470/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -164,6 +165,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/piyush470/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/piyush470/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3903-smallest-stable-index-i](https://github.com/piyush470/Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/piyush470/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## String
 |  |
 | ------- |
